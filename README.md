@@ -9,10 +9,10 @@ Here I will track and organise my Leetcode solutions, written in Python 3. The a
 
 | Difficulty   | Solved |
 | :----------- | :----- |
-| 🟢 **Easy**   | 13     |
-| 🟡 **Medium** | 0      |
+| 🟢 **Easy**   | 14     |
+| 🟡 **Medium** | 2      |
 | 🔴 **Hard**   | 0      |
-| **Total**    | **13** |
+| **Total**    | **16** |
 
 ---
 
